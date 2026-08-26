@@ -1,0 +1,9 @@
+text
+reportlab
+qrcode
+pillow
+openpyxl
+pymupdf
+opencv-python-headless
+numpy
+streamlit
