@@ -1,4 +1,3 @@
-text
 reportlab
 qrcode
 pillow
